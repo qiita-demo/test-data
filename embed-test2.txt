@@ -1,7 +1,7 @@
 this is test.txt
-[embed]
+[embed:24849fe2a4827785be04774d35931bb9]
 {"a": 123}
-[/embed]
+[/embed:24849fe2a4827785be04774d35931bb9]
 
 
 
